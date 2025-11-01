@@ -20,7 +20,7 @@ Keyboard-driven virtual desktop controller for Windows 11 — inspired by Linux 
   
 - [AutoHotkey v2](https://www.autohotkey.com/) installed  
 
-- The file `VirtualDesktopAccessor.dll` which I will put in the repo.
+- The file `VirtualDesktopAccessor.dll` which I will put in the repo, or you can download the version i used for the script from [here](https://github.com/Ciantic/VirtualDesktopAccessor/releases/download/2024-12-16-windows11/VirtualDesktopAccessor.dll)
 
 ### 2. Setup
 
