@@ -80,6 +80,9 @@ Again, make sure that the folder that the script is in looks like this
 
 ---
 
+## Preview
+[🎥 Watch ](./preview.mp4)
+
 ## 🧠 Credits
 
 - [@Ciantic](https://github.com/Ciantic) for [`VirtualDesktopAccessor.dll`](https://github.com/Ciantic/VirtualDesktopAccessor)  
