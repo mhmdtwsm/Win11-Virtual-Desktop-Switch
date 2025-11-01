@@ -81,7 +81,9 @@ Again, make sure that the folder that the script is in looks like this
 ---
 
 ## Preview
-[🎥 Watch ](./preview.mp4)
+![Demo Preview](./preview.gif)
+
+---
 
 ## 🧠 Credits
 
